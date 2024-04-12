@@ -1,4 +1,4 @@
-aiohttp==3.8.3
+aiohttp==3.9.2
 aiosignal==1.3.1
 anyio==3.7.0
 appdirs==1.4.4
@@ -21,7 +21,7 @@ Brotli==1.0.9
 brotlipy==0.7.0
 cachetools==5.3.1
 catalogue==2.0.8
-certifi==2023.5.7
+certifi==2023.7.22
 cffi==1.15.1
 chardet==5.1.0
 charset-normalizer==2.0.4
@@ -31,7 +31,7 @@ comm==0.1.2
 commonmark==0.9.1
 confection==0.0.4
 contourpy==1.0.5
-cryptography==41.0.1
+cryptography==42.0.4
 cssselect==1.2.0
 cycler==0.11.0
 cymem==2.0.6
@@ -61,7 +61,7 @@ frozenlist==1.3.3
 fsspec==2023.6.0
 future==0.18.3
 gitdb==4.0.10
-GitPython==3.1.31
+GitPython==3.1.41
 google-api-core==2.11.1
 google-api-python-client==2.90.0
 google-auth==2.21.0
@@ -76,14 +76,14 @@ httplib2==0.22.0
 httpx==0.23.3
 huggingface-hub==0.15.1
 humbug==0.3.1
-idna==3.4
+idna==3.7
 importlib-metadata==6.7.0
 ipykernel==6.15.0
 ipython==8.14.0
 ipywidgets==8.0.6
 jedi==0.18.2
 jieba3k==0.35.1
-Jinja2==3.1.2
+Jinja2==3.1.3
 jmespath==1.0.1
 joblib==1.2.0
 jsonpickle==3.0.1
@@ -92,7 +92,7 @@ jupyter_client==8.2.0
 jupyter_core==5.3.1
 jupyterlab-widgets==3.0.7
 kiwisolver==1.4.4
-langchain==0.0.247
+langchain==0.1.0
 langchainplus-sdk==0.0.17
 langcodes==3.3.0
 langsmith==0.0.15
@@ -136,7 +136,7 @@ openai==0.27.8
 openai-whisper==20230314
 openapi-schema-pydantic==1.2.4
 openpyxl==3.0.9
-orjson==3.9.1
+orjson==3.9.15
 outcome==1.2.0
 packaging==23.1
 pandas==1.5.3
@@ -150,8 +150,8 @@ pathy==0.10.2
 pdf2image==1.16.3
 pdfminer.six==20221105
 pickleshare==0.7.5
-Pillow==9.3.0
-pip==23.1.2
+Pillow==10.3.0
+pip==23.3
 platformdirs==3.6.0
 plotly==5.15.0
 pooch==1.7.0
@@ -166,7 +166,7 @@ pyasn1==0.5.0
 pyasn1-modules==0.3.0
 PyAudio==0.2.11
 pycparser==2.21
-pycryptodomex==3.18.0
+pycryptodomex==3.19.1
 pydantic==1.10.8
 Pygments==2.15.1
 PyJWT==2.7.0
@@ -174,7 +174,7 @@ pyllamacpp==2.4.0
 pyOpenSSL==23.0.0
 pypandoc==1.11
 pyparsing==3.1.0
-pypdf==3.11.1
+pypdf==3.17.0
 PySocks==1.7.1
 python-dateutil==2.8.2
 python-docx==0.8.11
@@ -190,7 +190,7 @@ pyzmq==25.1.0
 redis==4.5.5
 redlines==0.3.0
 regex==2023.6.3
-requests==2.28.2
+requests==2.31.0
 requests-file==1.5.1
 rfc3986==1.5.0
 rich==13.5.1
@@ -234,10 +234,10 @@ tldextract==3.4.4
 tokenizers==0.13.3
 torch==2.0.1
 torchvision==0.15.2
-tornado==6.2
+tornado==6.3.3
 tqdm==4.65.0
 traitlets==5.9.0
-transformers==4.30.2
+transformers==4.38.0
 trio==0.22.0
 trio-websocket==0.10.3
 typer==0.7.0
@@ -249,7 +249,7 @@ typing-inspect==0.9.0
 uc-micro-py==1.0.2
 unstructured==0.7.12
 uritemplate==4.1.1
-urllib3==1.26.16
+urllib3==1.26.18
 wandb==0.15.4
 wasabi==1.1.2
 wcwidth==0.2.6
@@ -265,5 +265,5 @@ xlrd==2.0.1
 XlsxWriter==3.1.2
 xyzservices==2023.5.0
 yarl==1.8.1
-yt-dlp==2023.7.6
+yt-dlp==2024.4.9
 zipp==3.15.0
